@@ -7,5 +7,5 @@ instalara lo necesario bspwm sxhkd polybar etc
 extraer la carpeta que se llama dotfiles.zip
 Copiar lo de adentro de la carpeta Config a la carpeta .config
 Copiar la carpeta Wallpaper a $HOME
-#Cambiar Fondo 
+# Cambiar Fondo 
 nano .config/bspwm/bspwmrc
