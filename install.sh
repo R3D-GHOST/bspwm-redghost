@@ -58,7 +58,7 @@ sudo apt install rofi
 sudo apt install kitty
 sudo apt install i3lock
 #Aplicar Fondo de pantalla
-echo 'feh --bg-fill $HOME/.Wallpaper/fondo.png' >> ~/.config/bspwm/bspwmrc
+echo 'feh --bg-fill $HOME/Wallpaper/fondo.png' >> ~/.config/bspwm/bspwmrc
 sudo apt install feh
 echo '~/.config/polybar/./launch.sh' >> ~/.config/bspwm/bspwmrc
 #Instalcion de Powerlevel10k
