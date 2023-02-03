@@ -1,0 +1,2 @@
+# bspwm-redghost
+autoinstall bspwm 
